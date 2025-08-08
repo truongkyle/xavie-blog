@@ -969,7 +969,7 @@ footer:
   since: "2013"
 ```
 
-The above will result for example in `© 2013 - 2025 Minimal ...`. Note that `time` and `footer.since` also support values other than year numbers.
+The above will result for example in `© 2025 EphathaGroup`. Note that `time` and `footer.since` also support values other than year numbers.
 
 ## Reading files
 
